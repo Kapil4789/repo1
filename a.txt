@@ -1,1 +1,2 @@
-this is modified file a.txt
+this is modified file a.txt 
+updated a.txt file
